@@ -9,9 +9,9 @@
 На тестирование затрачено: 4 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [issue#1](https://github.com/MarinaOliynyk/Credit-Card-Number-Validator/issues/1)
-* [issue#2](https://github.com/MarinaOliynyk/Credit-Card-Number-Validator/issues/2)
-* [issue#3](https://github.com/MarinaOliynyk/Credit-Card-Number-Validator/issues/3)
+* [Не принимает валидный номер карты Visa при вводе в приложении Credit Card Number Validator](https://github.com/MarinaOliynyk/Credit-Card-Number-Validator/issues/1)
+* [Не принимает валидный номер карты American Express при вводе в приложении Credit Card Number Validator](https://github.com/MarinaOliynyk/Credit-Card-Number-Validator/issues/2)
+* [Не принимает валидный номер карты Diners Club при вводе в приложении Credit Card Number Validator](https://github.com/MarinaOliynyk/Credit-Card-Number-Validator/issues/3)
 
 ## Описание процесса тестирования
 
